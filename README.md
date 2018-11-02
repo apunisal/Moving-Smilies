@@ -1,2 +1,2 @@
 # Moving-Smilies
-Screen Saver with music
+Screen Saver with Music
